@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "874ead8adfde384b5e3c788a2afd7a09",
-"assets/AssetManifest.bin.json": "4262683618a2ec27429369de30459fc2",
-"assets/AssetManifest.json": "6b8dbac68e3739b3eb651c0916fc3d1e",
+const RESOURCES = {"assets/AssetManifest.bin": "034326fe95c1bccb5167151f028106e2",
+"assets/AssetManifest.bin.json": "941f942a1c72183c2a5a0270482b990f",
+"assets/AssetManifest.json": "f640d2fc1744bf2c7161870cde65ac8f",
 "assets/assets/brands/apple.svg": "efc4939d7e15c1c0e2ee5da25dcdba17",
 "assets/assets/brands/facebook.svg": "03d81152cfd0aba50b7078d233a86016",
 "assets/assets/brands/google.svg": "dfb46a0714c1ec6af8e36c747485dcde",
@@ -13,6 +13,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "874ead8adfde384b5e3c788a2afd7a09
 "assets/assets/images/banner_1.jpeg": "b45652d0361178b8645ebb78cc41a474",
 "assets/assets/images/banner_2.jpeg": "2b30f5b346562e74610804ef2d122559",
 "assets/assets/images/banner_3.jpeg": "8f4a766e495fc31091720643272a0332",
+"assets/assets/images/party_leader.jpg": "f45ec6c92822988d44770d8c375c67d3",
 "assets/assets/images/person_1.png": "2f881290013aa4a7d76840447ea4425e",
 "assets/assets/images/person_2.png": "38578f4fbf9e5b200113cbd21074f16f",
 "assets/assets/images/person_3.png": "507dde412e6f002898366f235a6d8b6c",
@@ -39,9 +40,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "874ead8adfde384b5e3c788a2afd7a09
 "icons/Icon-512.png": "147cd433886d9eee0b9ac26f3220dbe5",
 "icons/Icon-maskable-192.png": "597ad5159025b87654544cd8f785eade",
 "icons/Icon-maskable-512.png": "147cd433886d9eee0b9ac26f3220dbe5",
-"index.html": "b1c026df73bc53980c861cea4d797dd6",
-"/": "b1c026df73bc53980c861cea4d797dd6",
-"main.dart.js": "27cb4040ece154b37832e316a14d334b",
+"index.html": "9c5888e2f21d726fd31c8758019ce2e5",
+"/": "9c5888e2f21d726fd31c8758019ce2e5",
+"main.dart.js": "b9122430aafa5f30433f06c64278a870",
 "manifest.json": "377a54cc93e0b4c7f521be7c7ad8ddb8",
 "splash/img/dark-1x.png": "d217315f2dbe1ee815e57480e33d3197",
 "splash/img/dark-2x.png": "fa87e7b555ff33f86d46e933997460e7",
